@@ -1,2 +1,6 @@
 in dev branch
+<<<<<<< HEAD
 another line in master
+=======
+another line 
+>>>>>>> dev
